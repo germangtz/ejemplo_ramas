@@ -11,5 +11,6 @@ int main(){
     z=(5*x+7*y)/(a*x*y);
     cout<<z<<endl;
     cout<<"ejemplo ramas"<< endl;
+    cout<<"ESTO SE HIZO EN LA RAMA 2"<< endl;
     return 0;
 }
